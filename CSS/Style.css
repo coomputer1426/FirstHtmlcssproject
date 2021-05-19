@@ -17,7 +17,7 @@
 .dropdown:hover .dropdown-menu{opacity: 1; visibility: visible;}
 
 /* Home Section */
-.home{height: 100vh; background-image: url(../images/background/background1.webp);background-size: cover;}
+.home{height: 100vh; background-image: url(/../images/background/background1.webp);background-size: cover;}
 .home-content{width: 65%; top: 50%;left: 50%;transform: translate(-50%,-50%);}
 .title{font-size:3.5rem;}
 .descr{margin: 20px 0 ;letter-spacing: 2px;line-height: 1.5;}
