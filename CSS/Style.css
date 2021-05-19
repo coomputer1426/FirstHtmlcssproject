@@ -1,6 +1,6 @@
-/*Index 
-/* 3. General Styles
-    3.0 Header Section */
+/*  Index 
+3. General Styles
+3.0 Header Section */
 .header{position: fixed;width: 100%;z-index: 10;background-color:rgba(0,0,0,0.4);}
 .header .logo{width: 40%;}
 .header .logo img{width: 25%;margin-top: 15px;}
