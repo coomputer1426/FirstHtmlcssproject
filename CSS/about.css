@@ -1,0 +1,7 @@
+/* About Section */
+
+.about-item{border: 1px solid #e8e8e8;padding: 50px 20px;}
+.about-item:hover .about-item-title, .about-item:hover .about-item-desc {color: var(--wh);}
+.about-item .icon{margin-bottom: 10px;}
+.about-item-title{margin: 10px;}
+.about-item-desc{line-height: 1.6;margin-bottom: 10px;}

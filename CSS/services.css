@@ -1,0 +1,14 @@
+.service{background-color: #f9f9f9;overflow: hidden;}
+
+.service-item{width: 50%;}
+.service-item .section-header{text-align:left;}
+.service-item .section-header .line{margin: 0 0 40px 0;}
+.service-item .service-item-desc{padding-right: 20px;color: #999;line-height: 1.4;font-size: 16px;margin-bottom: 20px;}
+
+.service-list li{margin-bottom: 20px;color: #999;}
+.service-list li i{border: 1px solid #6195ff;width: 30px;height: 30px; padding: 7px 7px;border-radius: 50%;}
+
+.service-ballets li{width: 10px;height: 10px;display: inline-block;background-color: #e8e8e8;margin: 10px 5px;border-radius: 50%;}
+.service-ballets li.active{background-color: #6195ff;} 
+.service-ballets li:hover{background-color: #6195ff;}
+

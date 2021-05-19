@@ -1,0 +1,19 @@
+
+/* 3.9 Contact section */
+
+.contact-content{overflow: hidden;}
+
+.contact-item i{font-size: 25px;}
+.contact-text{color:#999;}
+.contact-item.mg + .contact-item span{text-transform: capitalize;}
+.contact-form{width: 80%;margin: 20px auto;padding: 30px;}
+.form-double input{background: #f8f8f8;height: 35px;margin: 5px 0;outline-style: none; padding: 0 10px;border-style: none;}
+
+.contact-form-half{width:48% ;}
+.contact-form input:focus, .contact-form textarea:focus {border:1px solid #6195ff ;border-bottom-width:medium ;}
+input[placeholder=Email]{float: right;}
+.contact-form-full{margin: 0 auto;}
+.contact-form button{margin: 0 auto;}
+.form-double ~ button{opacity: 1; width: 120px;height: 40px;border: none;}
+textarea{background: #f8f8f8;border: none;outline: none;}
+.form-double ~ button:hover{opacity: 0.6;}

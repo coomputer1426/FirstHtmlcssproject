@@ -1,0 +1,43 @@
+/*Index 
+/* 3. General Styles
+    3.0 Header Section */
+.header{position: fixed;width: 100%;z-index: 10;background-color:rgba(0,0,0,0.4);}
+.header .logo{width: 40%;}
+.header .logo img{width: 25%;margin-top: 15px;}
+.header .nav{width: 60%;text-align: right;}
+.header .nav > li{display: inline-block; text-align:left;width:auto;}
+.header .nav > li > a{text-decoration: none;color:var(--wh);padding: 20px 5px ;display: block;font-size: 16px;}
+.header .nav > li > a::after{display: block;margin-top: 2px; content:""; transition: width 500ms; height: 3px; background-color: #6195ff;width: 0;}
+
+.header .nav > li > a.active::after, .header .nav > li > a:hover:after, .header .nav > li > a:visited::after, .u-thick-line{width: 100%;}
+
+
+.dropdown-menu{transition: opacity 500ms, visibility 500ms; padding: 5px;  width:80px; left: -20%;top:100%;}
+.dropdown-menu a{text-decoration: none;}
+.dropdown:hover .dropdown-menu{opacity: 1; visibility: visible;}
+
+/*Home Section*/
+.home{height: 100vh; background-image: url(../images/background/background1.webp);background-size: cover;}
+.home-content{width: 65%; top: 50%;left: 50%;transform: translate(-50%,-50%);}
+.title{font-size:3.5rem;}
+.descr{margin: 20px 0 ;letter-spacing: 2px;line-height: 1.5;}
+.home .btn{min-width: 160px;padding: 10px 0;border: 0; border-radius: 5px;cursor: pointer;font-size: 18px;}
+.home .btn-start{margin-right: 10px;background-color:var(--wh) ;}
+
+.hover-opacity:hover{opacity: 0.8;}
+.hover-opacity{transition:opacity 500ms;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

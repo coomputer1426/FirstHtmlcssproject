@@ -1,0 +1,10 @@
+/* testmonial */
+.testimonial{background-image: url(../images/background/background3.webp);background-size: cover;background-attachment: fixed;height: 400px;}
+.testimonial-content{overflow: hidden;padding: 120px 0;width: 80%; margin: 0 auto;}
+.testimonial-item{width: 50%;}
+
+.testimonial-top{padding: 10px 2px 40px 100px;}
+.testimonial-top h3{margin: 5px 0;}
+
+.testimonial-desc{line-height: 1.5;font-size: 17px;}
+.testimonial-top img{top: 10;left: 0;border-radius: 50%;}

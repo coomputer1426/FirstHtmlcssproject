@@ -1,0 +1,9 @@
+/* 3.5 Services why choose us section  */
+
+/* Numbers Section */
+.numbers{background-image: url(../images/background/background2.webp);background-size: cover;background-attachment: fixed; height: 300px;}
+.numbers-item{overflow: hidden;padding: 100px 0;padding: 120px 0;}
+.number-item{ width: 25%;}
+.number-item .icon{margin-bottom: 15px;}
+.number-item .number-item-title{font-weight: bold;font-size: 30px;margin-bottom: 15px;}
+

@@ -1,0 +1,9 @@
+
+/* Services offer section */
+/* .offer{} */
+.offer-content{overflow: hidden;}
+.offer-item{margin-bottom: 20px;border: 1px solid #e8e8e8;padding: 20px 15px 30px 60px;}
+.offer-item .icon{top: 25px;left: 10px;}
+.offer-item-title{ margin-bottom: 15px;}
+.offer-item-desc{margin-bottom: 15px;color: #999;line-height: 1.6;}
+.offer-item:hover .offer-item-title{color: var(--wh);}

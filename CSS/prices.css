@@ -1,0 +1,17 @@
+
+
+/* 3.6 Prices section  */
+.prices{background-color: var(--wh);}
+.pricing-plan{overflow: hidden;}
+.pricing-item{padding: 40px 15px;border: 1px solid #e8e8e8;}
+
+.pricing-item-text{font-size: 17px;color: #999;}
+.pricing-item-permonth{width: 130px;height: 130px; padding: 25px 0;margin: 20px auto;border: 2px solid #6195ff;border-radius: 50%;}
+.pricing-item-permonth .dollar{font-size: 50px;}
+.pricing-item-permonth .month{font-weight: bold;font-size: 15px;}
+
+.pricing-list li{color: #999; line-height: 1.8;}
+.pricing-item-purchase{background: none;border: 0;width: 140px;border: 2px solid #6195ff;padding: 10px;margin: 15px auto 0 auto;color:#6195ff ;}
+.pricing-item:hover .pricing-item-text{color: #6195ff}
+.pricing-item:hover .pricing-item-permonth, .pricing-item:hover .dollar{color: var(--wh);}
+

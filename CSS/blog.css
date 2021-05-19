@@ -1,0 +1,17 @@
+
+/* 3.8 Blog Page  */
+.blog{background-color: #f8f8f8;}
+.blog-content{overflow: hidden;}
+.blog-item{background: var(--wh);}
+.blog-item > img{width:100%;}
+
+.blog-item ul li{display:inline-block;font-size: 13px;font-weight: 600;margin: 0 5px;}
+.blog-l-f::before{content: "\f007";}
+.blog-l-s::before{content: "\f018";}
+.blog-l-t::before{content: "\f023";}
+.blog-item ul li::before{font-family: "Font Awesome 5 Free"; font-weight: 600;font-size: 8px;color: #6195ff;margin-right: 5px;}
+.blog-item-info button{border: none;margin: 0 auto;height: 40px;}
+.blog-item-info{padding: 20px;text-align: left;}
+.blog-item-title{margin: 20px 0;font-weight: bold;}
+.blog-item-desc{color: #999;}
+

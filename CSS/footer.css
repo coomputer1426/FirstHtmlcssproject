@@ -1,0 +1,11 @@
+
+/* footer section */
+.footer{background: #1c1d23;padding: 60px 0;}
+
+.footer-icon-list{list-style: none;margin: 20px 0;}
+.footer-icon-list li{display: inline-block;}
+.footer-icon-list li a{width: 50px;margin: 0 5px;border-radius: 20%; height: 50px;}
+.footer-icon-list li a i{line-height: 50px;}
+.footer span{font-size: 15px;}
+.footer-span1{color: #999;}
+
